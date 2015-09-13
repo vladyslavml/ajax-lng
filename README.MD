@@ -36,7 +36,7 @@ needed translation array.
 
 Example ajax call script use Webix framework
 
-// Calling get-lng.php scripn and set name variable to browser language en-en
+// Calling get-lng.php scripn and set name variable to browser language en-en  <br>
 var oTr = JSON.parse(webix.ajax().sync().get("libs/ajax-lng/get-lng.php?name="+navigator.language.toLocaleLowerCase()).responseText);
 
 //You must define tr function
