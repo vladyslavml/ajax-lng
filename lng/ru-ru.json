@@ -1,0 +1,14 @@
+{
+"sb_main":"Основные",
+"sb_queue":"Очереди",
+"sb_agents":"Агенты",
+"sb_statistics":"Статистика и отчеты",
+"sb_admin":"Администрирование",
+"sb_all_tickets":"Все заявки",
+"sb_assign_to_me":"Назначено мне",
+"sb_int_progress":"В работе",
+"sb_trash":"Корзина",
+"sb_archive":"Архив",
+"sb_reports":"Отчеты"
+
+}

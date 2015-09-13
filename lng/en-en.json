@@ -1,0 +1,14 @@
+{
+"sb_main":"Main",
+"sb_queue":"Queue",
+"sb_agents":"Agents",
+"sb_statistics":"Statistics and reports",
+"sb_admin":"Admin",
+"sb_all_tickets":"All tickets",
+"sb_assign_to_me":"Assign me",
+"sb_int_progress":"In progress",
+"sb_trash":"Trash",
+"sb_archive":"Archive",
+"sb_reports":"Reports"
+
+}
