@@ -4,7 +4,7 @@
  * PHP Version 5
  * @package ajax-lng
  * @link https://github.com/vladyslavml/ajax-lng
- * @author Vladyslav Melnychecko  <vlad.melnychenko@outlook.com>
+ * @author Vladyslav Melnychenko  <vlad.melnychenko@outlook.com>
  * @copyright 2015
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  * @note This program is distributed in the hope that it will be useful - WITHOUT
