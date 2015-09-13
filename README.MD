@@ -37,22 +37,22 @@ needed translation array.
 Example ajax call script use Webix framework
 
 // Calling get-lng.php scripn and set name variable to browser language en-en  <br>
-var oTr = JSON.parse(webix.ajax().sync().get("libs/ajax-lng/get-lng.php?name="+navigator.language.toLocaleLowerCase()).responseText);
+var oTr = JSON.parse(webix.ajax().sync().get("libs/ajax-lng/get-lng.php?name="+navigator.language.toLocaleLowerCase()).responseText);<br>
 
-//You must define tr function
-function tr(name) {
-    if (oTr[name]!=undefined)
-        return oTr[name];
-    else
-      return name+' - N/A';
-}
+//You must define tr function<br>
+function tr(name) {<br>
+    if (oTr[name]!=undefined)<br>
+        return oTr[name];<br>
+    else<br>
+      return name+' - N/A';<br>
+}<br>
 
 
-That's all.
+That's all.<br>
 
-We can use it.
-Calling function tr for retrieve translated text by identifier sb_main.
-alert(tr('sb_main'));
+We can use it.<br>
+Calling function tr for retrieve translated text by identifier sb_main.<br>
+alert(tr('sb_main'));<br>
 
 
 WHAT's NEXT
@@ -61,5 +61,5 @@ WHAT's NEXT
 
 
 
-Vladyslav Melnychenko
+Vladyslav Melnychenko<br>
 http://www.vladyslav.ml
