@@ -42,10 +42,11 @@ var oTr = JSON.parse(webix.ajax().sync().get("libs/ajax-lng/get-lng.php?name="+n
 //You must define tr function
 function tr(name) {
     if (oTr[name]!=undefined)
-      return oTr[name];
+        return oTr[name];
     else
       return name+' - N/A';
 }
+
 
 That's all.
 
